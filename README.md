@@ -1,4 +1,4 @@
-﻿# password_encryptor
+﻿# password_hasher
 
 ![image](https://github.com/user-attachments/assets/4df0ca09-e301-4abb-b1fb-f200b30b0c79)
 
